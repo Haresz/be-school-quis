@@ -1,0 +1,6 @@
+{
+  "framework": "hono",
+  "buildCommand": null,
+  "installCommand": null,
+  "outputDirectory": null
+}
